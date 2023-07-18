@@ -1,0 +1,5 @@
+flask
+flask_smorest
+flask_jwt_extended
+python-dotenv
+pymongo
